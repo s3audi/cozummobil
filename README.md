@@ -1,2 +1,0 @@
-# cozummobil
-cozum mobil
